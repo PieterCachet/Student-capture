@@ -1,0 +1,20 @@
+<StudentList>
+ <student>
+  <number>1234</number>
+  <modules>
+   <module>
+    <code>COS3711</code>
+    <mark>66</mark>
+   </module>
+  </modules>
+ </student>
+ <student>
+  <number>4321</number>
+  <modules>
+   <module>
+    <code>INF3711</code>
+    <mark>66</mark>
+   </module>
+  </modules>
+ </student>
+</StudentList>
